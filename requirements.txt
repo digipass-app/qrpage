@@ -1,0 +1,7 @@
+qrcode
+numpy
+concat
+pandas
+pillow
+matplotlib
+python-resize-image
